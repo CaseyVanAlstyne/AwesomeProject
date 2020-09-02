@@ -7,6 +7,7 @@ namespace AwesomeProject
         static void Main(string[] args)
         {
             Console.WriteLine("Goodbye Cruel World");
+            Console.ReadKey();
         }
     }
 }
