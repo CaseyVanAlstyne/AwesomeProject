@@ -1,0 +1,12 @@
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.deps.json
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.runtimeconfig.json
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.runtimeconfig.dev.json
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.dll
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.pdb
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.csprojAssemblyReference.cache
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.AssemblyInfoInputs.cache
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.AssemblyInfo.cs
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.csproj.CoreCompileInputs.cache
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.dll
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.pdb
+/Users/jerricasnow/Desktop/C# Project/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.genruntimeconfig.cache
